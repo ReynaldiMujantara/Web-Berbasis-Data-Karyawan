@@ -4,9 +4,9 @@ keterangan berupa deskripsi keunggulan
 ## untuk melihat tampilan
 ![homepage](images/Homepage.jpg)
 
-![homepage](images/menuadmin.jpg)
+![menu admin](images/menuadmin.jpg)
 
-![homepage](images/menuuser.jpg)
+![menu user](images/menuuser.jpg)
 
 ## database
 lakukan import file *.sql ke dalam database bernama user otomatis akan tercipta 3 tables beserta datanya. ![tables](images/db.jpg)

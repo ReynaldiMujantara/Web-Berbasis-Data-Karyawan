@@ -1,0 +1,35 @@
+body{
+	font-family: sans-serif;
+	background: #ebf9fb;
+}
+h1,p{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+.menuNavbar{
+    background: #e44e4e;
+	color: white;
+	padding: 10px;
+	text-align: center;
+    border:1px solid #b32929;
+    text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+    text-transform: uppercase;
+    text-decoration: none; 
+    
+}
+.menuNavbar:hover{
+   background: rgb(68, 67, 67);
+}
+#inputUser{
+    margin-left: 185px;
+}
+.menu{
+    background: #e44e4e;
+	color: white;
+	padding: 10px;
+	text-align: center;
+    border:1px solid #b32929;
+    text-align: center;
+}
